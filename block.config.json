@@ -2,8 +2,8 @@
   "name": "22Nova",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/22Nova.git",
+    "ssh": "git@github.com:grgshiji/22Nova.git",
     "branch": "block_22Nova"
   },
   "dependencies": {
