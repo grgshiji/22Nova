@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/22Nova.git",
+    "ssh": "git@github.com:grgshiji/22Nova.git",
+    "branch": "block_removeTodo"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "removeTodo",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "q7pfPmUBBi0NaL-sz3uXE",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "w0CPzAyqo7yf8L0rp4QIh"
+  ]
+}
